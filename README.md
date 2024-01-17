@@ -1,4 +1,4 @@
-# ToDoLIST
+# ToDoList
 
 This repository contains a simple and efficient TodoList application built using JavaScript, HTML, and CSS, with the power of React. 
 Manage your tasks seamlessly with this user-friendly web application. Feel free to explore the code!
